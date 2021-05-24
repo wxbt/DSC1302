@@ -7,7 +7,7 @@
 /**
  * DS1302 block
  */
-//% weight=100 color=#1874CD icon="\uf017" block="RTC DS1302"
+//% weight=20 color=#Ffbc11 icon="\uf017" block="RTC DS1302"
 namespace DS1302 {
     let DS1302_REG_SECOND = 0x80
     let DS1302_REG_MINUTE = 0x82
